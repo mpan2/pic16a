@@ -21,4 +21,9 @@ print(list3)
 list4 = ([i for i in range(65, 10, -10)])
 print(list4)
 
-# hi
+
+# save 
+# git add .
+# git commit -m "MESSAGE"
+# git push
+# git pull on laptop
